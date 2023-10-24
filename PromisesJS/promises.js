@@ -16,7 +16,7 @@ myPromise.then((data) => {
     console.log(data);
 })
 
-// como utilizar o then para tirar mais vantagens da promessa e não precisar tratar esse dados em outro lugar
+// como utilizar o then para tirar mais vantagens da promessa e não precisar tratar esse dados em outro lugar:
 
 // encadeamento de then's
 
